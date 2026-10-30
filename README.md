@@ -1,3 +1,14 @@
+---
+title: Fiber 37 Tools
+emoji: 🧵
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app.py
+pinned: false
+license: mit
+---
+
 # Fiber OSP Cost Estimator
 
 Combined Longhaul OSP Assessment + Market / MDU Cost Model for Hugging Face Spaces.
